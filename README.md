@@ -1,3 +1,3 @@
 # Kokoa Clone 2020 update
 
-CSS got so mucj better
+CSS got so much better!
