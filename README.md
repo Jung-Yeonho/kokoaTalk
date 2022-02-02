@@ -1,1 +1,3 @@
-# kokoaTalk
+# Kokoa Clone 2020 update
+
+CSS got so mucj better
