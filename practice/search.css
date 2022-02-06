@@ -1,0 +1,18 @@
+.search-box {
+  display: flex;
+  justify-content: center;
+}
+
+.search {
+  background-color: rgb(150, 150, 150);
+  height: 50px;
+  width: 400px;
+  border: 0px solid white;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  bottom: 10px;
+  box-shadow: 3px 3px red, -1em 0 0.4em olive;
+}

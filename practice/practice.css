@@ -1,0 +1,38 @@
+@import "header.css";
+@import "reset.css";
+@import "search.css";
+@import "address.css";
+@import "manybook.css";
+body {
+  height: 1000px;
+  width: 500px;
+  border: 5px solid green;
+}
+
+footer {
+  height: 250px;
+  width: 400px;
+  margin: 10px 50px;
+}
+.authors_title {
+  font-size: 30px;
+}
+.authors {
+  display: flex;
+}
+.authors-left {
+  height: 250px;
+  width: 200px;
+  background-color: deeppink;
+}
+.authors-right {
+  margin: 10px 30px;
+}
+.authors-right_first {
+  font-size: 20px;
+}
+.authors-right_second {
+  font-size: 15px;
+  opacity: 0.6;
+  margin: 20px 0;
+}

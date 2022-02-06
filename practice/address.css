@@ -1,0 +1,70 @@
+
+address {
+    height: 250px;
+    width: 400px;
+    margin: 10px 60px;
+  }
+  .main-book_title {
+    font-size: x-large;
+  }
+  .main-book {
+    display: flex;
+    margin: 10px;
+  }
+  .main-book_left {
+    background-color: blueviolet;
+    height: 200px;
+    width: 150px;
+  }
+  .main-book_right {
+    margin: 20px;
+  }
+  .main-book_right_title {
+    font-size: 20px;
+  }
+  .main-book_right_subtitle {
+    opacity: 0.5;
+  }
+  .star-score {
+    margin: 20px;
+  }
+  .main-book_field {
+    display: flex;
+    justify-content: space-around;
+  }
+  .main-book_field_first {
+    background-color: cadetblue;
+    padding: 5px;
+    border: 0px;
+    border-radius: 5px;
+    margin: 5px;
+  }
+  .main-book_field_second {
+    background-color: cadetblue;
+    padding: 5px;
+    border: 0px;
+    border-radius: 5px;
+    margin: 5px;
+  }
+  .main-book_btn {
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+  }
+  .tag-btn {
+    height: 30px;
+    width: 30px;
+    border: 0px;
+    border-radius: 50%;
+    background-color: darkorange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .main-book_btn_read {
+    height: 20px;
+    padding: 5px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: rgb(180, 180, 180);

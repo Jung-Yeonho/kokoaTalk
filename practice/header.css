@@ -1,0 +1,15 @@
+header {
+  height: 80px;
+  width: 500 px;
+}
+.header_div {
+  height: 80px;
+  background-color: rgb(245, 208, 0);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.header_div h1 {
+  font-size: 30px;
+}

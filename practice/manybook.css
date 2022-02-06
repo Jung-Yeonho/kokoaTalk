@@ -1,0 +1,36 @@
+article {
+  height: 250px;
+  width: 400px;
+  margin: 10px 30px;
+}
+.famous-book > h1 {
+  font-size: 20px;
+}
+.many-book {
+  display: flex;
+  overflow-x: scroll;
+}
+.many-book_first_pic {
+  height: 150px;
+  width: 120px;
+  background-color: darkred;
+  margin: 5px;
+}
+.many-book_second_pic {
+  height: 150px;
+  width: 120px;
+  background-color: darkseagreen;
+  margin: 5px;
+}
+.many-book_third_pic {
+  height: 150px;
+  width: 120px;
+  background-color: darkturquoise;
+  margin: 5px;
+}
+.many-book_forth_pic {
+  height: 150px;
+  width: 120px;
+  background-color: darkviolet;
+  margin: 5px;
+}
